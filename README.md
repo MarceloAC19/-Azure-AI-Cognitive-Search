@@ -15,7 +15,6 @@ Como entregável, este repositório oferece um registro detalhado de todas as et
 * **/README.md**: Esta página inicial, com a visão geral do projeto.
 * **/passo-a-passo.md**: Um guia detalhado com todas as etapas técnicas realizadas na Azure, baseado no tutorial [Explore an Azure AI Search index (UI)](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html).
 * **/insights.md**: Uma documentação com as observações, conclusões e insights extraídos durante o processo de exploração dos dados.
-* **/documentos**: Pasta contendo arquivos de suporte, como a imagem com a descrição original do desafio.
 
 ## 🛠️ Ferramentas e Pré-requisitos
 
