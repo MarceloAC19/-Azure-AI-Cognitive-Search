@@ -1,23 +1,23 @@
 # -Azure-AI-Cognitive-Search
 
-# Repositório: Organização e Pesquisa de Documentos com Azure AI Search
+# Repository: Organizing and Searching Documents with Azure AI Search
 
-Este repositório documenta a realização de um laboratório prático focado em técnicas de organização e pesquisa de documentos, utilizando as poderosas ferramentas de Inteligência Artificial da Microsoft Azure. O projeto segue os princípios de ingestão de dados, criação de índices inteligentes e exploração de dados organizados, conforme descrito no desafio.
+This repository documents the completion of a hands-on lab focused on document organization and search techniques, using the powerful Artificial Intelligence tools from Microsoft Azure. The project follows the principles of data ingestion, creation of intelligent indexes, and exploration of organized data, as described in the challenge.
 
-## 🎯 Objetivo do Desafio
+## 🎯 Challenge Objective
 
-O objetivo principal deste laboratório é aplicar e compreender o processo de ingestão e indexação de dados para extrair conhecimento valioso de grandes volumes de informação. A ferramenta central utilizada para esta tarefa é o **Azure AI Search** (anteriormente conhecido como Azure Cognitive Search).
+The main objective of this lab is to apply and understand the process of data ingestion and indexing to extract valuable knowledge from large volumes of information. The central tool used for this task is **Azure AI Search** (formerly known as Azure Cognitive Search).
 
-Como entregável, este repositório oferece um registro detalhado de todas as etapas executadas e os insights obtidos durante a exploração do índice de pesquisa.
+As a deliverable, this repository offers a detailed record of all the steps performed and the insights gained during the exploration of the search index.
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
-* **/README.md**: Esta página inicial, com a visão geral do projeto.
-* **/passo-a-passo.md**: Um guia detalhado com todas as etapas técnicas realizadas na Azure, baseado no tutorial [Explore an Azure AI Search index (UI)](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html).
-* **/insights.md**: Uma documentação com as observações, conclusões e insights extraídos durante o processo de exploração dos dados.
+* **/README.md**: This main page, with the project overview.
+* **/step-by-step.md**: A detailed guide with all the technical steps performed in Azure, based on the [Explore an Azure AI Search index (UI)](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html) tutorial.
+* **/insights.md**: Documentation with observations, conclusions, and insights extracted during the data exploration process.
 
-## 🛠️ Ferramentas e Pré-requisitos
+## 🛠️ Tools and Prerequisites
 
-* Uma assinatura ativa do **Microsoft Azure**.
-* Acesso ao **Azure AI Search** e a um recurso de armazenamento (Azure Blob Storage).
-* Dados de exemplo (neste caso, utilizamos os dados fornecidos pelo laboratório da Microsoft Learn).
+* An active **Microsoft Azure** subscription.
+* Access to **Azure AI Search** and a storage resource (Azure Blob Storage).
+* Sample data (in this case, we used the data provided by the Microsoft Learn lab).
